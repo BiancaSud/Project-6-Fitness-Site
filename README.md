@@ -2,22 +2,28 @@
 
 A fitness site covering workout challenges, exercise videos and nutrition, built with HTML and CSS.
 
-**Live site:** _[adaugă link Netlify sau GitHub Pages]_
+**Live site:** 
+https://core-boost-fitness-app.netlify.app/
+https://biancasud.github.io/Project-6-Fitness-Site/
 
-![Core Boost](screenshot.png)
+![Core Boost]
+<img width="1714" height="898" alt="image" src="https://github.com/user-attachments/assets/788cff7d-2cdb-4b61-8628-995e63521375" />
+<img width="1293" height="820" alt="image" src="https://github.com/user-attachments/assets/ac7a270c-081f-420d-a61c-667dc71f3402" />
+<img width="390" height="814" alt="image" src="https://github.com/user-attachments/assets/098da5d6-5fcb-4193-9c14-6f809f198266" />
+
 
 ## About
 
-Core Boost presents workout programmes and nutrition guidance for people training without a gym. The site is built around progressive challenges — 30-day and 90-day programmes a user commits to and follows.
+Core Boost presents workout programmes and nutrition guidance for people training without a gym. The site is built around progressive challenges — 30-day and 90-day programs a user commits to and follows.
 
 ## Features
 
-- **Challenge section** — beginner, 30 minutes a day, 30-day and 90-day programmes, with an explanation of how challenges work
+- **Challenge section** — beginner, 30 minutes a day, 30-day and 90-day programs, with an explanation of how challenges work
 - **Targeted workout areas** — cardio, abs, full body, upper body, lower body, with descriptive copy for each
 - **Video library by category** — ten categories, each labelled with video count and duration range (booty and legs, no equipment, stretching, HIIT, cardio blast, resistance bands, strength and power, and more)
-- **Progress tracking section** encouraging users to post updates and adjust difficulty mid-programme
+- **Progress tracking section** encouraging users to post updates and adjust difficulty mid-programe
 - **Nutrition area** split into breakfast, lunch, dinner and snacks, with a custom meal-plan prompt
-- **Footer** covering programmes, nutrition, about and store
+- **Footer** covering programs, nutrition, about and store
 
 ## Built with
 
@@ -40,7 +46,6 @@ This was also the first project where I used an icon library rather than images 
 
 ## Possible improvements
 
-- Fix the typos in the video category labels (`vidoes` → `videos`)
 - Individual workout and video pages
 - Responsive layout
 - Working login and progress tracking
